@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="raptoregg" size="6.300000 5.870135" />
+    <ImageTarget name="pachycephalosaurusegg" size="6.300000 4.725000" />
+    <ImageTarget name="stegosaurusegg" size="6.300000 6.300000" />
+    <ImageTarget name="icecreamlid" size="14.000000 13.354201" />
+    <ImageTarget name="perfume" size="0.810000 1.224085" />
+    <ImageTarget name="pendrive" size="0.730000 0.335800" />
+    <ImageTarget name="chocolate" size="0.800000 1.370817" />
+  </Tracking>
+</QCARConfig>
